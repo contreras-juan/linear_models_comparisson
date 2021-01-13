@@ -1,0 +1,1 @@
+# A simulation comparisson between different linear models
